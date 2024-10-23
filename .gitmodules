@@ -2,3 +2,4 @@
 	path = icu
 	url = https://github.com/unicode-org/icu
 	branch = maint/maint-75
+        shallow = true
